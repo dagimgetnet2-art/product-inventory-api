@@ -151,11 +151,3 @@ Server runs on: `http://localhost:3000`
 
 ---
 
-## Postman Testing
-
-A pre-configured Postman collection is provided in `postman_collection.json`.
-
-1. Open Postman.
-2. Click **Import** in the top left.
-3. Select `postman_collection.json` located in the root folder.
-4. Run requests against `http://localhost:3000`.
